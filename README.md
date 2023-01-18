@@ -1,3 +1,5 @@
-# Thesis-Project---House-Price-Predict
+# Thesis-Project-House-Price-Predict
 
-# Run by cmd streamlit run main.py
+# Run by cmd 
+Open your cmd run this command
+>streamlit run main.py
